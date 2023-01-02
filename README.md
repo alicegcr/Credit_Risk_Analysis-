@@ -13,7 +13,7 @@ a risk loan. To perform this analysis, six machine learning models will be used.
 
 ## Results 
 
-- Naive Random Oversampling
+### Naive Random Oversampling
 
 ![naive_random_oversampling](png/naive_random_oversampling.png).
 
@@ -24,7 +24,7 @@ a risk loan. To perform this analysis, six machine learning models will be used.
   * Low Risk Recall: 67$
 
 
-- SMOTE Oversampling
+### SMOTE Oversampling
 
 ![SMOTE_oversampling](png/SMOTE_oversampling.png).
 
@@ -34,7 +34,7 @@ a risk loan. To perform this analysis, six machine learning models will be used.
   * Low Risk Precision: 100%
   * Low Risk Recall: 66%
 
-- Undersampling
+### Undersampling
 
 ![undersampling](png/undersampling.png).
 
@@ -44,7 +44,7 @@ a risk loan. To perform this analysis, six machine learning models will be used.
   * Low Risk Precision: 100%
   * Low Risk Recall: 43%
 
-- Combination (Over and Under) Sampling
+### Combination (Over and Under) Sampling
 
 ![combination](png/combination.png).
 
@@ -54,7 +54,7 @@ a risk loan. To perform this analysis, six machine learning models will be used.
   * Low Risk Precision: 100%
   * Low Risk Recall: 43%
   
-- Balanced Random Forest Classifier
+### Balanced Random Forest Classifier
 
 ![balance_random_forest](png/balance_random_forest.png).
 
@@ -64,7 +64,7 @@ a risk loan. To perform this analysis, six machine learning models will be used.
   * Low Risk Precision: 100%
   * Low Risk Recall: 91%
   
-- Easy Ensemble AdaBoost Classifier
+### Easy Ensemble AdaBoost Classifier
 
 ![easy_ensemble](png/easy_ensemble.png).
 

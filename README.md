@@ -75,3 +75,14 @@ a risk loan. To perform this analysis, six machine learning models will be used.
   * Low Risk Recall: 94%
   
 ## Summary 
+I recommend the Easy Ensemble AdaBoost Classifier machine learning model. It had the highest Balanced 
+Accuracy percentage, 92.5%, compared to the other models. In addition, it also had a high rate of 
+precision and recall.
+
+Balance Accuracy Ranking 
+1. Easy Ensemble AdaBoost Classifier: 92.5%
+2. Balanced Random Forest Classifier: 74.7%
+3. Naive Random Oversampling: 65.3%
+4. SMOTE Oversampling: 65.1%
+5. Undersampling: 65.1%
+6. Combination (Over and Under) Sampling: 64.2%
